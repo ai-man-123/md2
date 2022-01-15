@@ -169,11 +169,9 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 🙏 *THANKS*
 ├ My god
 ├ My parents
-├ Rashid
-├ Xfarr api
-├ Fatih A.
+├ ꋬ꒐ꂵꋬꋊ
+├ Aiman
 ├ ZeeoneOfc
-├ Baileys#multi-device
 ├ And all support
 └──────
 
@@ -211,7 +209,7 @@ Sanksi: *‼️ PERMANENT BLOCK ‼️*
 
 Jika sudah dipahami rules-nya, silakan ketik *${prefix}allmenu* untuk memulai!
 
-⚠️ Segala kebijakan dan ketentuan Alphabot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
+⚠️ Segala kebijakan dan ketentuan bot di pegang oleh owner dan segala perubahan kebijakan, sewaktu waktu owner berhak mencabut, memblokir user(*﹏*) 
 
 Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu juga dalam project pembuatan Alphabot
 😖🙏
@@ -223,7 +221,7 @@ exports.source = (prefix) =>{
 return`*── 「 SOURCE 」 ──*
 
 Original : https://github.com/rashidsiregar28/chikabot
-Sc Recode : https://github.com/zeeoneofc/Alphabot-Md
+Sc Recode : https://github.com/ai-man-123/md2
 `
 }
 exports.tos = (ownerNumber, prefix) => {
@@ -232,7 +230,7 @@ exports.tos = (ownerNumber, prefix) => {
 
 Hai 👋
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan:
-🏧 0887435047326 (OVO/Dana/GoPay)
+🏧 60102810046 (pulsa) 
 
 Berapapun donasi kalian akan sangat berarti 👍
 
